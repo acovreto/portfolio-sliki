@@ -1,0 +1,23 @@
+    background-color: #e4f9f5;
+    font-family: "Merriweather", serif;
+    color: #66bfbf; boja na tekst
+    font-family: "Sacramento", cursive; 
+
+text:
+I'm Angela.
+a programmer.
+
+I am an iOS and Web Developer. I'm the founder and CTO of The App Brewery. I ❤️ coffee and brew my own beers.
+
+Design & Development
+I started learning to code when I was 12 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.
+
+Hot Wings Challenge
+But my best skill is actually in eating hot wings. I am the undisputed queen of hot wing challenges. Ghost Peppers and Carolina Reapers are my favourite snacks.
+
+Get In Touch
+If you love hot wings as much as I do.
+Love hot wings as much as I do? Let's talk about how awesome they are! We can code while we eat hot wings!
+
+CONTACT ME
+
